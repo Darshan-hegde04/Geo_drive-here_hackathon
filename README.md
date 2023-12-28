@@ -16,24 +16,42 @@ Geo Drive is a cutting-edge mobile app designed to provide users with sustainabl
 
 ## About
 
+
+
 ### What is Geo Drive?
 
 Geo Drive is a cutting-edge mobile application focused on providing sustainable, eco-friendly, and intelligent traffic solutions. By harnessing the power of advanced technologies such as HERE API and SDKs, Geo Drive empowers users with features like calculating the shortest optim route, measuring carbon footprint, and offering SOS features for emergencies.
 
+
+
 ### How Geo Drive Benefits Users?
+
+
 
 - ### User Benefits
 
-- **Sustainable Routing:**
-    - Geo Drive calculates and displays eco-friendly routes, encouraging sustainable travel behaviors.
-- **Carbon Footprint Assessment:**
-    - Users can evaluate their carbon footprint based on transportation choices, promoting eco-conscious decisions.
-- **Emergency SOS:**
-    - In emergencies, Geo Drive swiftly identifies optimal routes to the nearest medical facility while alerting predefined contacts.
-- **Real-time Traffic Insights:**
-    - Stay informed with up-to-date traffic information for efficient navigation.
-- **In-depth Carbon Analytics:**
-    - Access comprehensive visuals showcasing carbon footprint trends, fostering sustainable habits.
+    - **Sustainable Routing:**
+
+        - The GeoDrive platform utilizes real-time data to provide users with the most efficient routes possible, reducing travel time
+
+    - **Carbon Footprint Assessment:**
+
+        - Users can evaluate their carbon footprint based on transportation choices, promoting eco-conscious decisions.
+
+    - **Emergency SOS:**
+
+        - In emergencies, Geo Drive swiftly identifies optimal routes to the nearest medical facility while alerting predefined contacts.
+
+    - **Real-time Traffic Insights:**
+
+        - Stay informed with up-to-date traffic information for efficient navigation.
+
+    - **In-depth Carbon Analytics:**
+
+        - Access comprehensive visuals showcasing carbon footprint trends, fostering sustainable habits.
+
+
+
 
 
 ## Features
@@ -60,15 +78,14 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
     - Amazon AWS
 - API and SDKs
     - Here
-        - Routing
-        - Traffic
-        - Geocoding
-        - Places
-    - Firebase (Databaase)
+    - OpenStreetmap
+- Firebase (Databaase)
+
 
 ## How Geo Drive Works?
 
 Geo Drive seamlessly integrates cutting-edge technologies to deliver unmatched sustainable and intelligent traffic solutions. Here's a succinct overview:
+
 
 - **HERE API Integration:**
     
@@ -97,6 +114,7 @@ Geo Drive seamlessly integrates cutting-edge technologies to deliver unmatched s
 
 
 ## Getting Started
+
 
 ### Prerequisites
 
