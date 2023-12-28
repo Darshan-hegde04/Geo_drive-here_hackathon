@@ -51,22 +51,40 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
         - Access comprehensive visuals showcasing carbon footprint trends, fostering sustainable habits.
 
 
+    - **Speech to Text**: 
 
+
+        - Voice-based input for convenience.
 
 
 ## Features
 
 - **Intelligent Routing:**
+
     - Identify and present the most eco-friendly and efficient route based on user preferences and real-time data.
+
 - **Carbon Footprint Analysis:**
+
     - Analyze your carbon footprint considering various factors such as transportation mode and distance.
+
 - **Emergency SOS:**
+
     - Activate the SOS feature to quickly identify routes to medical facilities and alert contacts.
+
 - **Real-time Traffic Updates:**
+
     - Receive timely traffic updates to optimize your travel plans.
+
 - **Detailed Carbon Analytics:**
+
     - Review insightful charts depicting your carbon footprint evolution over time.
+
+- **Voice-to-Text Feature:** 
+
+    - Transforms spoken words into actionable text commands.
+
 - **User-Friendly Interface:**
+
     - Enjoy a seamless and intuitive interface adaptable across multiple devices.
 
 ## Technologies Used
@@ -102,6 +120,14 @@ Geo Drive seamlessly integrates cutting-edge technologies to deliver unmatched s
 - **SOS Functionality:**
     
 	- During emergencies, identify optimal routes to medical facilities and send alerts to predefined contacts.
+
+- **Voice Input**: 
+	
+	- Users can initiate the voice command by tapping the dedicated microphone icon within the Geo Drive application. 
+
+- **Speech Recognition**:
+
+	- The application processes the spoken words using advanced Speech-to-Text algorithms, translating the voice input into readable text.
 	 
 - **Real-Time Traffic Updates:**
     
