@@ -155,6 +155,10 @@ Geo Drive seamlessly integrates cutting-edge technologies to deliver unmatched s
 
 
 
+![image](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/a773f774-fdf5-48b1-aab3-79ab02ec0a3c)
+
+
+
 
 ## Getting Started
 
@@ -174,7 +178,7 @@ Before using Geo Drive, ensure you have the following prerequisites:
 
 1. **Clone the Repository:**
     
-    `git clone https://github.com/YourUsername/GeoDrive`
+    `git clone https://github.com/Darshan-hegde04/Hack_here`
     
 2. **Navigate to the Project Directory:**
 
