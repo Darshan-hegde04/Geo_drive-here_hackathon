@@ -1,4 +1,9 @@
-# Geo Drive - Revolutionizing Sustainable & Intelligent Traffic Solutions
+# Geo![splash_screen](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/c76bb801-b907-43c1-9877-bc0eaee3ff25)
+![sign_inpage](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/e7801be3-30c6-493c-833e-a4c12d39ea31)
+![sidebar_transition_animation](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/3fb5f521-b060-44b5-89f5-b1c0c049baea)
+![navigate_user](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/585de94c-4103-4624-bfdb-bebd67a9b7cd)
+![login_page](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/282a4110-2c54-4168-b44f-0b1c6ce458bc)
+Drive - Revolutionizing Sustainable & Intelligent Traffic Solutions
 
 Geo Drive is a cutting-edge mobile app designed to provide users with sustainable and eco-friendly traffic solutions. By combining technology like the HERE API and Flutter, it offers features that promote intelligent transportation and eco-conscious choices.
 
@@ -244,4 +249,31 @@ Geo Drive is proudly prepared by Team HackZilla:
 
 
 
+
 ## Screenshots
+
+
+**Welcome_page**
+![welcome_page](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/9acc83b7-48da-4c52-a11e-29eb717d8c27)
+
+**signin_page**
+![sign_inpage](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/49ec8372-a834-44f1-bc32-fb37b3909e70)
+
+**Splash_screen**
+
+![splash_screen](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/3b9c45da-ba85-4ece-9714-aa8759871d8a)
+
+**login_page**
+![login_page](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/809b47c1-5220-46a1-8679-ab7ae9ea6b6f)
+
+
+**home_page**
+![home_page](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/96564ab7-27d9-4ef0-bcc4-2ab13ee60eae)
+
+
+
+ **input_Navigate**
+![navigate_user](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/75205d66-9905-49ea-ae13-6e1c2bbd8261)
+
+**location_navigate**
+![location_geodrive](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/7c4ddf69-8c8c-4921-9c05-8ede89f0fa05)
