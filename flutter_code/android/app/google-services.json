@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676936548065",
+    "project_id": "finallogin-7dcd8",
+    "storage_bucket": "finallogin-7dcd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676936548065:android:97cdd18a6d8a210d7401a0",
+        "android_client_info": {
+          "package_name": "com.example.login_page_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWgl-kaarHfLdEU2hc7cgKioepAtm_KGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
