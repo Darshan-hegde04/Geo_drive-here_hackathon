@@ -2,6 +2,9 @@
 
 Geo Drive is a cutting-edge mobile app designed to provide users with sustainable and eco-friendly traffic solutions. By combining technology like the HERE API and Flutter, it offers features that promote intelligent transportation and eco-conscious choices.
 
+
+
+
 ## Table of Contents
 
 - [About](#about)
@@ -14,9 +17,11 @@ Geo Drive is a cutting-edge mobile app designed to provide users with sustainabl
 - [Prepared by](#prepared-by)
 - [Screenshots](#screenshots)
 
+
+
+
+
 ## About
-
-
 
 ### What is Geo Drive?
 
@@ -24,8 +29,8 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
 
 
 
-### How Geo Drive Benefits Users?
 
+### How Geo Drive Benefits Users?
 
 
 - ### User Benefits
@@ -55,6 +60,9 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
 
 
         - Voice-based input for convenience.
+
+
+
 
 
 ## Features
@@ -87,6 +95,10 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
 
     - Enjoy a seamless and intuitive interface adaptable across multiple devices.
 
+
+
+
+
 ## Technologies Used
 
 - Flutter (Frontend)
@@ -98,6 +110,9 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
     - Here
     - OpenStreetmap
 - Firebase (Databaase)
+
+
+
 
 
 ## How Geo Drive Works?
@@ -139,6 +154,8 @@ Geo Drive seamlessly integrates cutting-edge technologies to deliver unmatched s
 
 
 
+
+
 ## Getting Started
 
 
@@ -150,6 +167,8 @@ Before using Geo Drive, ensure you have the following prerequisites:
 - Python installed for backend development.
 - Access to HERE API and SDKs.
 - Firebase account for storage and database services.
+
+
 
 ### Installation
 
@@ -176,6 +195,9 @@ Before using Geo Drive, ensure you have the following prerequisites:
     - Obtain API keys from HERE and configure them in the project.
     - Set up Firebase for storage and database services.
 
+
+
+
 ## How to Use
 
 1. **Launch Geo Drive:**
@@ -199,6 +221,9 @@ Before using Geo Drive, ensure you have the following prerequisites:
     
     - Receive real-time traffic updates and adjust your route for optimal efficiency.
 
+
+
+
 ## Prepared by
 
 Geo Drive is proudly prepared by Team HackZilla:
@@ -211,5 +236,8 @@ Geo Drive is proudly prepared by Team HackZilla:
    
 - Kedar Bhagat :  - [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Kedarbhagat)   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kedar-bhagat-b65300284/)
   
+
+
+
 
 ## Screenshots
