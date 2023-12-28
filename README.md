@@ -1,9 +1,4 @@
-# Geo![splash_screen](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/c76bb801-b907-43c1-9877-bc0eaee3ff25)
-![sign_inpage](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/e7801be3-30c6-493c-833e-a4c12d39ea31)
-![sidebar_transition_animation](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/3fb5f521-b060-44b5-89f5-b1c0c049baea)
-![navigate_user](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/585de94c-4103-4624-bfdb-bebd67a9b7cd)
-![login_page](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/282a4110-2c54-4168-b44f-0b1c6ce458bc)
-Drive - Revolutionizing Sustainable & Intelligent Traffic Solutions
+# GeoDrive - Revolutionizing Sustainable & Intelligent Traffic Solutions
 
 Geo Drive is a cutting-edge mobile app designed to provide users with sustainable and eco-friendly traffic solutions. By combining technology like the HERE API and Flutter, it offers features that promote intelligent transportation and eco-conscious choices.
 
