@@ -7,7 +7,7 @@
 
     <application
         android:usesCleartextTraffic="true"
-        android:label="login_page_firebase"
+        android:label="Geo Drive"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

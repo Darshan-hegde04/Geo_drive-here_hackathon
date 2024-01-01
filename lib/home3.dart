@@ -1,6 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:login_page_firebase/carbon/carbon%20entry.dart';
+import 'package:login_page_firebase/soser.dart';
 import 'package:login_page_firebase/webview_map.dart';
 import 'package:shrink_sidemenu/shrink_sidemenu.dart';
 import 'DrawerNav.dart';
@@ -87,7 +88,7 @@ class _gridviewState extends State<gridview> {
         GestureDetector(
           onTap:() async{
            await getCurrentlocation() ;
-           Navigator.push(context, MaterialPageRoute(builder: (context)=>maper() )) ;
+           Navigator.push(context, MaterialPageRoute(builder: (context)=>soser() )) ;
           } ,
           child: Container(
             decoration: decor,
@@ -114,7 +115,7 @@ class _gridviewState extends State<gridview> {
         GestureDetector(
           onTap:() {
             getCurrentlocation() ;
-            Navigator.push(context, MaterialPageRoute(builder: (context)=>carbanselect() )) ;
+            Navigator.push(context, MaterialPageRoute(builder: (context)=>carbanSelect() )) ;
             } ,
           child: Container(
             decoration: decor,

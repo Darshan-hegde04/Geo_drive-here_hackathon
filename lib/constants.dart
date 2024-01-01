@@ -6,7 +6,7 @@ import 'package:login_page_firebase/Starting(Login-Sign)/Login.dart';
 class theme{
  Color maincolor=  Color(0xffED1C39) ;
  Color grid = Color(0xffF3F3F3) ;
- Color here=  Color(0xff52DACC) ;
+   Color here=  Color(0xff52DACC) ;
  Color here1=  Color(0xffD6FFF5) ;
 }
 BoxDecoration decor = BoxDecoration(
@@ -15,9 +15,9 @@ BoxDecoration decor = BoxDecoration(
  boxShadow: [
   BoxShadow(
    color: themecolor.here1,
-   blurRadius: 30 ,
+   blurRadius: 10 ,
    offset: Offset(
-    5 ,10
+    5 ,5
    )
   )
 ]

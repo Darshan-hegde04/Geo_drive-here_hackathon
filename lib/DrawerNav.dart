@@ -36,6 +36,7 @@ class _NavDrawerState extends State<NavDrawer> {
             padding: EdgeInsets.zero,
             children: <Widget>[
               const DrawerHeader(
+
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
@@ -46,13 +47,22 @@ class _NavDrawerState extends State<NavDrawer> {
                       radius: 50,
                     ) ,
                     Text(
-                      'Username',
-                      style: TextStyle(color: Colors.white, fontSize: 20),
+                      'Akshay Hegde',
+                      style: TextStyle(color: Colors.black,
+                          fontWeight: FontWeight.bold,
+                          fontSize: 20),
                     ),
                   ],
                 ),
                 decoration: BoxDecoration(
-                  color: Colors.black,
+                  gradient: LinearGradient(
+                    begin: Alignment.topRight,
+                    end: Alignment.bottomLeft,
+                    colors: [
+                      Color(0xffE4DC8C),
+                      Color(0xff52DACC) ,
+                    ],
+                  )
                 ),
               ),
               ListTile(

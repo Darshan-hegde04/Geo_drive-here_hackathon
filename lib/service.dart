@@ -44,10 +44,7 @@ Future apiCall2(String url) async {
     data = json.decode(response.body);
 
     // Accessing latitude and longitude from the Map
-    lat2 = data['latitude'];
-    lon2 = data['longitude'];
-   print(lat2+ lon2)  ;
-
+   
   } else {
     print("API not fetched");
   }
