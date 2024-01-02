@@ -1,0 +1,107 @@
+import 'package:flutter/material.dart';
+import 'package:webview_flutter/webview_flutter.dart';
+String start = "" ;
+String stop = "" ;
+var loadingPercentage = 0;
+class webview extends StatefulWidget {
+  const webview({Key? key}) : super(key: key);
+
+  @override
+  _webviewState createState() => _webviewState();
+}
+
+class _webviewState extends State<webview> {
+  TextEditingController startingloc= TextEditingController();
+  TextEditingController endingloc = TextEditingController();
+  late final WebViewController controller = WebViewController()
+    ..setJavaScriptMode(JavaScriptMode.unrestricted)
+    ..loadRequest(Uri.parse(
+        'https://map-testing.onrender.com/?start_lat=19.1334&start_lon=72.9133&end_lat=19.0596&end_lon=72.8295'));
+
+
+
+  @override
+  Widget build(BuildContext context) {
+    return SafeArea(
+      child: Scaffold(
+        body: Column(
+          children: [
+            Expanded(
+              flex: 2,
+              child: Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: WebViewWidget(
+                    controller: controller),
+              ),
+            ),
+            SizedBox(
+              height: 10,
+            ) ,
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Column(
+                children: [
+                  Padding(
+                    padding: const EdgeInsets.all(0),
+                    child: Container(
+                      child:  TextFormField(
+                        controller: startingloc,
+                        decoration: InputDecoration(
+                          enabledBorder: OutlineInputBorder(
+                              borderSide: BorderSide( color: Colors.black,width: 2),
+                              borderRadius: BorderRadius.circular(30)
+                          ),
+
+                          contentPadding: EdgeInsets.all(20),
+                          border: OutlineInputBorder(
+                            borderRadius: BorderRadius.circular(20),
+                          ),
+                          hintText: 'Starting location',
+                        ),
+                      ),
+
+
+                    ),
+                  ),
+                  SizedBox(
+                    height: 20,
+                  ) ,
+                  Container(
+                    child:  TextFormField(
+                      controller: endingloc,
+                      decoration: InputDecoration(
+                        enabledBorder: OutlineInputBorder(
+                            borderSide: BorderSide( color: Colors.black,width: 2),
+                            borderRadius: BorderRadius.circular(30)
+                        ),
+
+                        contentPadding: EdgeInsets.all(20),
+                        border: OutlineInputBorder(
+                          borderRadius: BorderRadius.circular(20),
+                        ),
+                        hintText: 'Ending location',
+                      ),
+                    ),
+
+
+                  ),
+                  SizedBox(
+                    height: 5,
+                  ) ,
+                  ElevatedButton(onPressed: (){
+                    setState(() {
+                       start = startingloc.text ;
+                       stop = endingloc.text ;
+                       print(start) ;
+                    });
+                  }, child: Text("search"))
+                ],
+              ),
+            )
+          ],
+        ),
+      ),
+    ) ;
+
+  }
+}
