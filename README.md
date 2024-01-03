@@ -231,7 +231,7 @@ Before using Geo Drive, ensure you have the following prerequisites:
 
 ## Prepared by
 
-Geo Drive is proudly prepared by Team HackZilla. This project was successfully developed during the Here Hackathon, TechFest IIT Bombay.
+Geo Drive is proudly prepared by Team HackZilla. This project was successfully developed during the Final round of Here Hackathon, TechFest IIT Bombay.
 
 -  Darshan Hegde :  - [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Darshan-hegde04) - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/darshan-hegde-050b8625a/)
 
