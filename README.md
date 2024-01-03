@@ -1,6 +1,6 @@
 # GeoDrive - Revolutionizing Sustainable & Intelligent Traffic Solutions
 
-Geo Drive is a cutting-edge mobile app designed to provide users with sustainable and eco-friendly traffic solutions. By combining technology like the HERE API and Flutter, it offers features that promote intelligent transportation and eco-conscious choices.
+Geo Drive is a cutting-edge mobile app designed to provide users with sustainable and eco-friendly traffic solutions. By combining technologies like APIs, Flask, AWS and Flutter, it offers features that promote intelligent transportation and eco-conscious choices.
 
 
 
@@ -101,7 +101,7 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
 
 ## Technologies Used
 
-- Flutter (Frontend)
+- Flutter
 - Python (Backend)
 - Server side
     - Flask
@@ -109,6 +109,7 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
 - API and SDKs
     - Here
     - OpenStreetmap
+    - CarbonSutra
 - Firebase (Databaase)
 
 
@@ -169,7 +170,7 @@ Before using Geo Drive, ensure you have the following prerequisites:
 
 - Flutter installed on your computer for frontend development.
 - Python installed for backend development.
-- Access to HERE API and SDKs.
+- Access to HERE API and CarbonSutra API.
 - Firebase account for storage and database services.
 
 
@@ -196,7 +197,7 @@ Before using Geo Drive, ensure you have the following prerequisites:
     
 5. **API Integration:**
     
-    - Obtain API keys from HERE and configure them in the project.
+    - Obtain API keys and Bearer Tokens from HERE and CarbonSutra, and configure them in the project.
     - Set up Firebase for storage and database services.
 
 
@@ -230,7 +231,7 @@ Before using Geo Drive, ensure you have the following prerequisites:
 
 ## Prepared by
 
-Geo Drive is proudly prepared by Team HackZilla:
+Geo Drive is proudly prepared by Team HackZilla. This project was successfully developed during the Final round of Here Hackathon, TechFest IIT Bombay.
 
 -  Darshan Hegde :  - [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Darshan-hegde04) - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/darshan-hegde-050b8625a/)
 
