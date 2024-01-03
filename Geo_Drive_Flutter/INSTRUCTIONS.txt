@@ -1,0 +1,1 @@
+Rename the folder from "Geo_Drive_Flutter" to "login_page_firebase" while building.

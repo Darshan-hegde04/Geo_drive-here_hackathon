@@ -27,8 +27,8 @@ def Home():
         }
         headers = {
             "content-type": "application/x-www-form-urlencoded",
-            "Authorization": "Bearer fQ98oU704xFvsnXcQLVDbpeCJHPglG1DcxiMLKfpeNEMGumlbzVf1lCI6ZBx",
-            "X-RapidAPI-Key": "34c222cedcmshfcdea80a64cb92dp1f97f9jsna1340d732a43",
+            "Authorization": RAPIDAPI_BEARER_TOKEN,
+            "X-RapidAPI-Key": RAPIDAPI_KEY,
             "X-RapidAPI-Host": "carbonsutra1.p.rapidapi.com"
         }
 
@@ -55,7 +55,7 @@ def Home():
         querystring = {
             "type": f"{query_dict['type'][0]}", "distance": f"{query_dict['distance'][0]}"}
         headers = {
-            "X-RapidAPI-Key": "34c222cedcmshfcdea80a64cb92dp1f97f9jsna1340d732a43",
+            "X-RapidAPI-Key": RAPIDAPI_KEY,
             "X-RapidAPI-Host": "carbonfootprint1.p.rapidapi.com"
         }
         response = requests.get(url, headers=headers, params=querystring)
@@ -82,7 +82,7 @@ def Home():
         querystring = {
             "distance": f"{query_dict['distance'][0]}", "type": f"{query_dict['type'][0]}"}
         headers = {
-            "X-RapidAPI-Key": "34c222cedcmshfcdea80a64cb92dp1f97f9jsna1340d732a43",
+            "X-RapidAPI-Key": RAPIDAPI_KEY,
             "X-RapidAPI-Host": "carbonfootprint1.p.rapidapi.com"
         }
 

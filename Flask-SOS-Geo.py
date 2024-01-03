@@ -1,11 +1,10 @@
 from flask import Flask, request, jsonify, Response
 import requests
 import json
+import awsgi
+
 
 app = Flask(__name__)
-
-# Define your HERE API key (place it here securely or use environment variables)
-API_KEY = "Eva5ydwsdS6Py141TMa5UwT0c74q9UuIhSDF31AQNi8"  # Replace with your actual HERE API key
 
 
 @app.route('/', methods=['GET'])
@@ -96,6 +95,5 @@ def get_results():
             return Response(json.dumps({"Error": f"{response_dis.status_code}"}), status=400,
                             mimetype='application/json')
 
-
-if __name__ == '__main__':
-    app.run(debug=True)
+def lambda_handler(event, context):
+    return awsgi.response(app, event, context, base64_content_types={"image/png"})
