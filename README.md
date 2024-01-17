@@ -248,28 +248,53 @@ Geo Drive is proudly prepared by Team HackZilla. This project was successfully d
 
 ## Screenshots
 
+**In_APP_Images**
 
-**Welcome_page**
-![welcome_page](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/9acc83b7-48da-4c52-a11e-29eb717d8c27)
+!<table>
+  <tr>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/cbf4bb8b-f605-4be2-aae4-13213101eb5b" alt="Welcome_Page" width="600" height="650"></td>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/29338d33-07b2-44d8-8ae0-51a380017965" alt="splash_screen" width="600" height="650"></td>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/978eb10b-184a-44bd-83a0-3fc5752eb092" alt="user_profile_animation" width="600" height="650"></td>
 
-**signin_page**
-![sign_inpage](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/49ec8372-a834-44f1-bc32-fb37b3909e70)
+    
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/c24a7912-09a0-441c-82a5-59bfbddd14eb" alt="User_profile" width="600" height="650"></td>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/d0dbe4b8-0677-453e-b1e8-6e9a5c2a0f83" alt="Nearby_medical_facilities-When_zoomed_in" width="600" height="650"></td>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/f8680ab6-6de3-43a2-8459-2021474ea2c3" alt="Navigation_with_multiple_stops-user_added" width="600" height="650"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/8428659f-7606-442f-aaf0-1290944181dc" alt="Navigation_with_multiple_stops_user_added" width="600" height="650"></td>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/2d414073-e464-41c2-84c3-df37bd0d884d" alt="Login_page" width="600" height="650"></td>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/0cbc1213-25a6-479d-a2c1-2f1185f41d35" alt="Login_page_fields_filled" width="600" height="650"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/75af8ef7-8cda-4bb1-bd30-1944a2a792df" alt="Navigation_input_box" width="600" height="650"></td>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/8048e6a8-5474-4686-8694-1df62a316b7f" alt="HomePage" width="600" height="650"></td>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/ec65fd86-29cf-4e06-8f35-bfe5ca381f5a" alt="carbon_footprint_calculator-Menu" width="600" height="650"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/a2cb6897-e98f-4ce8-bfb5-fbf05a9136c1" alt="DropDown_Carbon-CarTypes" width="600" height="650"></td>
+   <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/5f9ad5ee-8a91-48b4-a532-6bb75c0d29d1" alt="CarbonFootprint_calculator" width="600" height="650"></td> 
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/3be1e381-ec3e-4c11-b4a8-140731e695df" alt="SOS_navigation" width="600" height="650"></td>
+  </tr>
+</table>
 
-**Splash_screen**
+**Map_Web_Version**
 
-![splash_screen](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/3b9c45da-ba85-4ece-9714-aa8759871d8a)
+<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/c19ebc9b-f4c2-4ebb-8eec-f2a242b373a5" alt="Navigation_Maps-WebView" width="1366" height="650">
+    
+**Cloud_Services**
 
-**login_page**
-![login_page](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/809b47c1-5220-46a1-8679-ab7ae9ea6b6f)
+  
+ <img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/1c18382b-521b-449e-b4c5-b119523aac5b" alt="Lambda_function-Overview" width="1366" height="650">
+<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/ac215a00-aa10-4b38-8cce-930aa54b2ce0" alt="Flow_Diagram" width="1366" height="650">
+<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/3d6c4d66-e943-4cbe-bd40-40aa39a1e7c1" alt="AWS-Lambda_functions" width="1366" height="650">
+<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/6c316fe4-011f-40b7-aa50-c9cb11ce73d1" alt="AWS-EC2_instances" width="1366" height="650">
+<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/4fc016f4-e461-4a06-9dcf-a757762e99fd" alt="AWS-API_gateways" width="1366" height="650">
+  
 
 
-**home_page**
-![home_page](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/96564ab7-27d9-4ef0-bcc4-2ab13ee60eae)
 
 
 
- **input_Navigate**
-![navigate_user](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/75205d66-9905-49ea-ae13-6e1c2bbd8261)
-
-**location_navigate**
-![location_geodrive](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/7c4ddf69-8c8c-4921-9c05-8ede89f0fa05)
