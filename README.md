@@ -156,7 +156,7 @@ Geo Drive seamlessly integrates cutting-edge technologies to deliver unmatched s
 
 
 
-![image](https://github.com/Darshan-hegde04/Hack_here/assets/149821544/a773f774-fdf5-48b1-aab3-79ab02ec0a3c)
+<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/31545ec7-c939-48b1-a0af-3fc894c9ad36" alt="Flow_Diagram" >
 
 
 
@@ -284,20 +284,20 @@ Geo Drive is proudly prepared by Team HackZilla. This project was successfully d
 
 **Map_Web_Version**
 
-<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/c19ebc9b-f4c2-4ebb-8eec-f2a242b373a5" alt="Navigation_Maps-WebView" width="1366" height="650">
+<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/c19ebc9b-f4c2-4ebb-8eec-f2a242b373a5" alt="Navigation_Maps-WebView" >
     
 **Cloud_Services**
 
   
- <img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/1c18382b-521b-449e-b4c5-b119523aac5b" alt="Lambda_function-Overview" width="1366" height="650">
-<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/ac215a00-aa10-4b38-8cce-930aa54b2ce0" alt="Flow_Diagram" width="1366" height="650">
-<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/3d6c4d66-e943-4cbe-bd40-40aa39a1e7c1" alt="AWS-Lambda_functions" width="1366" height="650">
-<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/6c316fe4-011f-40b7-aa50-c9cb11ce73d1" alt="AWS-EC2_instances" width="1366" height="650">
-<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/4fc016f4-e461-4a06-9dcf-a757762e99fd" alt="AWS-API_gateways" width="1366" height="650">
+ <img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/1c18382b-521b-449e-b4c5-b119523aac5b" alt="Lambda_function-Overview" >
+<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/31545ec7-c939-48b1-a0af-3fc894c9ad36" alt="Flow_Diagram">
+<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/3d6c4d66-e943-4cbe-bd40-40aa39a1e7c1" alt="AWS-Lambda_functions" >
+<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/6c316fe4-011f-40b7-aa50-c9cb11ce73d1" alt="AWS-EC2_instances" >
+<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/4fc016f4-e461-4a06-9dcf-a757762e99fd" alt="AWS-API_gateways">
   
 
 **TeamMembers**
-<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/b920b9b6-83a0-4c8b-9912-ea8e5e401918" alt="TeamMembers" width="1366" height="650">
+<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/b920b9b6-83a0-4c8b-9912-ea8e5e401918" alt="TeamMembers">
 
 
 
