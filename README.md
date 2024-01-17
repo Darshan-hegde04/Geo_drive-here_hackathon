@@ -260,17 +260,19 @@ Geo Drive is proudly prepared by Team HackZilla. This project was successfully d
   </tr>
   <tr>
     <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/c24a7912-09a0-441c-82a5-59bfbddd14eb" alt="User_profile" width="600" height="650"></td>
-    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/d0dbe4b8-0677-453e-b1e8-6e9a5c2a0f83" alt="Nearby_medical_facilities-When_zoomed_in" width="600" height="650"></td>
-    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/f8680ab6-6de3-43a2-8459-2021474ea2c3" alt="Navigation_with_multiple_stops-user_added" width="600" height="650"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/8428659f-7606-442f-aaf0-1290944181dc" alt="Navigation_with_multiple_stops_user_added" width="600" height="650"></td>
     <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/2d414073-e464-41c2-84c3-df37bd0d884d" alt="Login_page" width="600" height="650"></td>
     <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/0cbc1213-25a6-479d-a2c1-2f1185f41d35" alt="Login_page_fields_filled" width="600" height="650"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/75af8ef7-8cda-4bb1-bd30-1944a2a792df" alt="Navigation_input_box" width="600" height="650"></td>
     <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/8048e6a8-5474-4686-8694-1df62a316b7f" alt="HomePage" width="600" height="650"></td>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/75af8ef7-8cda-4bb1-bd30-1944a2a792df" alt="Navigation_input_box" width="600" height="650"></td>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/d0dbe4b8-0677-453e-b1e8-6e9a5c2a0f83" alt="Nearby_medical_facilities-When_zoomed_in" width="600" height="650"></td>
+
+
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/f8680ab6-6de3-43a2-8459-2021474ea2c3" alt="Navigation_with_multiple_stops-user_added" width="600" height="650"></td>
+    <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/8428659f-7606-442f-aaf0-1290944181dc" alt="Navigation_with_multiple_stops_user_added" width="600" height="650"></td>
     <td><img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/ec65fd86-29cf-4e06-8f35-bfe5ca381f5a" alt="carbon_footprint_calculator-Menu" width="600" height="650"></td>
   </tr>
   <tr>
@@ -294,7 +296,8 @@ Geo Drive is proudly prepared by Team HackZilla. This project was successfully d
 <img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/4fc016f4-e461-4a06-9dcf-a757762e99fd" alt="AWS-API_gateways" width="1366" height="650">
   
 
-
+**TeamMembers**
+<img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/b920b9b6-83a0-4c8b-9912-ea8e5e401918" alt="TeamMembers" width="1366" height="650">
 
 
 
