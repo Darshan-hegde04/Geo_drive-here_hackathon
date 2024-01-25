@@ -25,9 +25,7 @@ Geo Drive is a cutting-edge mobile app designed to provide users with sustainabl
 
 ### What is Geo Drive?
 
-Geo Drive is a cutting-edge mobile application focused on providing sustainable, eco-friendly, and intelligent traffic solutions. By harnessing the power of advanced technologies such as HERE API and SDKs, Geo Drive empowers users with features like calculating the most optimal route based on the estimated time of travel, measuring carbon footprints to enable Green navigation, and offering SOS features for emergencies.
-
-
+Geo Drive is a cutting-edge mobile application focused on providing sustainable, eco-friendly, and intelligent traffic solutions. By harnessing the power of advanced technologies like HERE API, Geo Drive empowers users with features like calculating the most optimal route based on the estimated time of travel, measuring carbon footprints to enable Green navigation, and offering SOS features for emergencies.
 
 
 ### How Geo Drive Benefits Users?
@@ -35,7 +33,7 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
 
 - ### User Benefits
 
-    - **Sustainable Routing:**
+    - **Effective Routing:** 
 
         - The GeoDrive platform utilizes real-time data to provide users with the most efficient routes possible, reducing travel time
 
@@ -56,18 +54,16 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
         - Access comprehensive visuals showcasing carbon footprint trends, fostering sustainable habits.
 
 
-    - **Speech to Text**: 
-
-
-        - Voice-based input for convenience.
-
-
 
 
 
 ## Features
 
-- **Intelligent Routing:**
+- **User-Friendly Interface:**
+
+    - Enjoy a seamless and intuitive interface adaptable across multiple devices.
+
+- **Intelligent Routing:** 
 
     - Identify and present the most eco-friendly and efficient route based on user preferences and real-time data.
 
@@ -79,21 +75,17 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
 
     - Activate the SOS feature to quickly identify routes to medical facilities and alert contacts.
 
-- **Real-time Traffic Updates:**
+- **Real-time Traffic Updates (Under Development):**
 
     - Receive timely traffic updates to optimize your travel plans.
 
-- **Detailed Carbon Analytics:**
+- **Pictoral Carbon Analytics (Under Development):**
 
     - Review insightful charts depicting your carbon footprint evolution over time.
 
-- **Voice-to-Text Feature:** 
+- **Voice-to-Text Feature (Under Development):** 
 
     - Transforms spoken words into actionable text commands.
-
-- **User-Friendly Interface:**
-
-    - Enjoy a seamless and intuitive interface adaptable across multiple devices.
 
 
 
@@ -106,7 +98,7 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
 - Server side
     - Flask
     - Amazon AWS
-- API and SDKs
+- APIs
     - Here
     - OpenStreetmap
     - CarbonSutra
@@ -136,14 +128,6 @@ Geo Drive seamlessly integrates cutting-edge technologies to deliver unmatched s
 - **SOS Functionality:**
     
 	- During emergencies, identify optimal routes to medical facilities and send alerts to predefined contacts.
-
-- **Voice Input**: 
-	
-	- Users can initiate the voice command by tapping the dedicated microphone icon within the Geo Drive application. 
-
-- **Speech Recognition**:
-
-	- The application processes the spoken words using advanced Speech-to-Text algorithms, translating the voice input into readable text.
 	 
 - **Real-Time Traffic Updates:**
     
@@ -152,6 +136,9 @@ Geo Drive seamlessly integrates cutting-edge technologies to deliver unmatched s
 - **AWS Hosting:**
     
 	- Benefit from a secure, scalable, and reliable hosting environment on Amazon Web Services.
+ - **Voice Input (Under Development)**: 
+	
+	- Users can initiate the voice command by tapping the dedicated microphone icon within the Geo Drive application. 
 
 
 
@@ -212,7 +199,7 @@ Before using Geo Drive, ensure you have the following prerequisites:
     
 2. **Intelligent Route Planning:**
     
-	- Input your destination and preferences to calculate the shortest eco-friendly route.
+	- Plan your travel by inputting your destination and preferences for an eco-friendly journey.
 	
 3. **Carbon Footprint Analysis:**
     
@@ -231,7 +218,8 @@ Before using Geo Drive, ensure you have the following prerequisites:
 
 ## Prepared by
 
-Geo Drive is proudly prepared by Team HackZilla. This project was successfully developed during the Final round of Here Hackathon, TechFest IIT Bombay.
+Geo Drive is proudly prepared by Team HackZilla in 16 hours. This project was successfully developed during the Final round of Here Hackathon, TechFest IIT Bombay.
+During the Hackathon, we faced time constraints that prevented us from implementing all the features we initially intended for GeoDrive. Despite these challenges, GeoDrive stands proudly as a working prototype — a testament to our adaptability and unwavering commitment to delivering a functional solution under the given circumstances.
 
 -  Darshan Hegde :  - [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Darshan-hegde04) - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/darshan-hegde-050b8625a/)
 
