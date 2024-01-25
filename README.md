@@ -1,9 +1,9 @@
 # GeoDrive - Revolutionizing Sustainable & Intelligent Traffic Solutions
 
-Geo Drive is a cutting-edge mobile app designed to provide users with sustainable and eco-friendly traffic solutions. By combining technologies like APIs, Flask, AWS and Flutter, it offers features that promote intelligent transportation and eco-conscious choices.
+Geo Drive is a cutting-edge mobile app designed to provide users with sustainable and eco-friendly traffic solutions.<br> By combining technologies like APIs, Flask, AWS and Flutter, it offers features that promote intelligent transportation and eco-conscious choices.
 
 
-
+<br>
 
 ## Table of Contents
 
@@ -17,7 +17,8 @@ Geo Drive is a cutting-edge mobile app designed to provide users with sustainabl
 - [Prepared by](#prepared-by)
 - [Screenshots](#screenshots)
 
-
+<br>
+<br>
 
 
 
@@ -26,7 +27,7 @@ Geo Drive is a cutting-edge mobile app designed to provide users with sustainabl
 ### What is Geo Drive?
 
 Geo Drive is a cutting-edge mobile application focused on providing sustainable, eco-friendly, and intelligent traffic solutions. By harnessing the power of advanced technologies like HERE API, Geo Drive empowers users with features like calculating the most optimal route based on the estimated time of travel, measuring carbon footprints to enable Green navigation, and offering SOS features for emergencies.
-
+<br>
 
 ### How Geo Drive Benefits Users?
 
@@ -54,7 +55,7 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
         - Access comprehensive visuals showcasing carbon footprint trends, fostering sustainable habits.
 
 
-
+<br>
 
 
 ## Features
@@ -89,7 +90,7 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
 
 
 
-
+<br>
 
 ## Technologies Used
 
@@ -106,7 +107,7 @@ Geo Drive is a cutting-edge mobile application focused on providing sustainable,
 
 
 
-
+<br>
 
 ## How Geo Drive Works?
 
@@ -146,7 +147,8 @@ Geo Drive seamlessly integrates cutting-edge technologies to deliver unmatched s
 <img src="https://github.com/Darshan-hegde04/Hack_here/assets/149821544/31545ec7-c939-48b1-a0af-3fc894c9ad36" alt="Flow_Diagram" >
 
 
-
+<br>
+<br>
 
 ## Getting Started
 
@@ -188,7 +190,7 @@ Before using Geo Drive, ensure you have the following prerequisites:
     - Set up Firebase for storage and database services.
 
 
-
+<br>
 
 ## How to Use
 
@@ -214,12 +216,13 @@ Before using Geo Drive, ensure you have the following prerequisites:
     - Receive real-time traffic updates and adjust your route for optimal efficiency.
 
 
-
+<br>
 
 ## Prepared by
 
 Geo Drive is proudly prepared by Team HackZilla in 16 hours. This project was successfully developed during the Final round of Here Hackathon, TechFest IIT Bombay.
-During the Hackathon, we faced time constraints that prevented us from implementing all the features we initially intended for GeoDrive. Despite these challenges, GeoDrive stands proudly as a working prototype — a testament to our adaptability and unwavering commitment to delivering a functional solution under the given circumstances.
+<br>
+During the Hackathon, we faced time constraints that prevented us from implementing all the features we initially intended for GeoDrive. Despite these challenges, GeoDrive stands proudly as a working prototype - a testament to our adaptability and unwavering commitment to delivering a functional solution under the given circumstances.
 
 -  Darshan Hegde :  - [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Darshan-hegde04) - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/darshan-hegde-050b8625a/)
 
@@ -230,7 +233,8 @@ During the Hackathon, we faced time constraints that prevented us from implement
 - Kedar Bhagat :  - [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Kedarbhagat)   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kedar-bhagat-b65300284/)
   
 
-
+<br>
+<br>
 
 
 
